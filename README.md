@@ -85,8 +85,6 @@ The program is organised into modular functions responsible for:
 - LiquidCrystal Arduino library
 - GitHub
 
-## 9. Group Information
-
 ## 10. Disclaimer
 
 This project is an educational prototype developed for embedded system design and simulation. It is not certified for real-world combustible gas safety applications.
